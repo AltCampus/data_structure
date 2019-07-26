@@ -1,0 +1,9 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "data structure exercises",
+  "main": "index.js",
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
